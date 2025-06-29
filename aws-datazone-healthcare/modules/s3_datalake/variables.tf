@@ -1,5 +1,5 @@
 
-variable "bucket_name" {}
+variable "patient-records-projectbucket" {}
 variable "tags" {
   type = map(string)
 }
